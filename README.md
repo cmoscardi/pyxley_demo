@@ -1,3 +1,12 @@
+# metricsgraphs Heroku Example
+This is forked form [pyxley](https://github.com/stitchfix/pyxley) and is a heroku-runnable example 
+of a pretty dashboard.
+
+Instructions:
+- Once you have a heroku app, you'll need both the python buildpack and the nodejs buildpack. 
+- [See here](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app) for instruction.
+
+
 # metricsgraphics.js Example
 This example showcases the integration of the [metricsgraphics.js](http://metricsgraphicsjs.org/)
 library for time-series data.
